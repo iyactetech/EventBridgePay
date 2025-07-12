@@ -1,0 +1,3 @@
+--- Signature Generation ---
+Payload string: {"event_type":"payment.completed","payment_id":"dd3d664a-0471-44b4-9510-d6cc8a358656","provider":"test_provider","data":{"reference":"TEST_REF_456_DEV_OPS"}}
+Signature: 27fcb5be6a67579fa223bfd537711dfee98060f8b385c35a5beb81a84c66bfd2
